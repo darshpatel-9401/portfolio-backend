@@ -1,0 +1,25 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "1ad71841-960f-49f1-9910-1a9586425e84",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1791298464626"
+        }
+      },
+      "favorite": {
+        "name": "MY_HOST",
+        "color": "color3"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb+srv://darshpatel9401_db_user:fnsscXpeBeWqgzZs@portfolio-backend.h9vgrf6.mongodb.net/",
+        "oidc": {}
+      }
+    }
+  ]
+}
